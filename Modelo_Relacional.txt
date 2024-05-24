@@ -1,0 +1,20 @@
+Relação entre os dados, nao tenho apenas uma ligacao, e essas ligações tem siginificados.
+
+Entidade = Onde eu coloco dados sobre alguma coisa.
+Atributos = Toda entidade tem coleções de atributos, esses atributos são os dados.
+Chave Primaria = famoso ID.
+
+
+Exemplo de relação:
+- Entidade Aluno
+- Entidade Curso
+relacionamento: Aluno assiste aulas do curso;
+
+DER => Diagrama Entidade Relacionamento.
+
+Cardinalidade = Pode ser simples ou multipla, quando tem mais coisas você chama de N, "n itens cadastrados".
+
+N PARA N || MUITOS PARA MUITOS
+
+Chave Estrangeira = Era a chave primaria de alguem, é uma chave primaria de um lugar que foi pra outra,
+na pratica essa é a relação entre tabelas.
